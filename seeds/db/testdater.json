@@ -1,0 +1,15 @@
+[
+  {
+    "target_class": "example.module:user",
+    "data": [
+      { "name": "green", "price": 1.22, "isbn": 90809808 },
+      { "name": "blue", "price": 2, "isbn": 980980 },
+      { "name": "teal", "price": 1.22, "isbn": 90222233808 },
+      { "name": "maroon", "price": 24, "isbn": 4237498274 },
+      { "name": "green", "price": 1.22, "isbn": 90809808 },
+      { "name": "cream", "price": 223, "isbn": 980332980 },
+      { "name": "offyellow", "price": 1.42, "isbn": 119808 },
+      { "name": "orange", "price": 23424, "isbn": 92343980 }
+    ]
+  }
+]
